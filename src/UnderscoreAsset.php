@@ -1,12 +1,12 @@
 <?php
 
-namespace madand\underscore;
+namespace h0rseduck\underscore;
 
 use yii\web\AssetBundle;
 
 /**
  * Class UnderscoreAsset
- * @package madand\underscore
+ * @package h0rseduck\underscore
  */
 class UnderscoreAsset extends AssetBundle
 {
